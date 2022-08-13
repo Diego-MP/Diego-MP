@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 
 <h1>🖖 Olá! Sou o Diego M.Pessoa</h1>
 
-- 👨🏻‍🔬 Formado em Engenharia Eletrônica
-- 👨🏻‍🎓 Estudante de ADS
+- 👨🏻‍🔬 Engenheiro Eletrônico
+- 🖥️ Dev Full Stack
 - 📺 Viciado em Filmes e Séries 
 - 👨‍🚀 Explorador do Universo 
-- 🖥️ Dev Full Stack
-- 🌱 Atualmente estudando JavaScript com React
 
 <div align="center">
   <a href="https://github.com/digpessoa">
