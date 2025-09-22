@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>🖖 Olá! Sou o Diego M.Pessoa</h1>
+<h1>🖖 Olá!</h1>
 
 - 👨🏻‍🔬 Engenheiro Eletrônico
-- 🖥️ Dev Full Stack
+- 🖥️ Dev Backend
 - 📺 Viciado em Filmes e Séries 
 - 👨‍🚀 Explorador do Universo 
 
