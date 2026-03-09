@@ -1,40 +1,87 @@
-<h1>🖖 Olá!</h1>
+<h1 align="center">Diego Pessoa</h1>
 
-- 👨🏻‍🔬 Engenheiro Eletrônico
-- 🖥️ Dev Backend
-- 📺 Viciado em Filmes e Séries 
-- 👨‍🚀 Explorador do Universo 
+<p align="center">
+Backend Developer • .NET • APIs • Databases • Linux
+</p>
 
-<div align="center">
-  <a href="https://github.com/Diego-MP">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Diego-MP&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MP&layout=compact&langs_count=7&theme=nightowl"/>
-  </a>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;.NET+%7C+APIs+%7C+SQL;Linux+%7C+Docker+%7C+Automation;Always+learning+new+technologies" />
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
-</div>
+---
 
-<br>
+## Sobre mim
 
-<div>
+- Engenheiro Eletrônico/Software
+- Desenvolvedor Backend  
+- Experiência com **.NET, APIs, SQL e sistemas legacy**
+- Interesse em **Arquitetura de Software**  
+- Entusiasta de tecnologia, filmes e ficção científica
 
-<a href=# target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+---
+
+## Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,javascript,html,css,docker,linux,postgres,mysql,git,vscode" />
+
+</p>
+
+---
+
+## Estatísticas GitHub
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diego-MP&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MP&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Sequência de contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Diego-MP&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## Atividade
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diego-MP&theme=tokyo-night" />
+
+</p>
+
+---
+
+## Contato
+
+<p align="center">
+
+<a href="mailto:#">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href=#>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="#">
+<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
+
+---
+
+## Contribuições
+
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/Diego-MP/Diego-MP/output/github-contribution-grid-snake.svg" />
 
-</div>
+</p>
