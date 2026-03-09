@@ -24,7 +24,7 @@ Backend Developer • .NET • APIs • Databases • Linux
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,javascript,html,css,docker,linux,postgres,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,html,docker,linux,git,vscode,rider,visualstudio" />
 
 </p>
 
