@@ -30,18 +30,6 @@ Backend Developer • .NET • APIs • Databases • Linux
 
 ---
 
-## Estatísticas GitHub
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Diego-MP&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-MP&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## Sequência de contribuições
 
 <p align="center">
@@ -57,31 +45,5 @@ Backend Developer • .NET • APIs • Databases • Linux
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diego-MP&theme=tokyo-night" />
-
-</p>
-
----
-
-## Contato
-
-<p align="center">
-
-<a href="mailto:#">
-<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## Contribuições
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Diego-MP/Diego-MP/output/github-contribution-grid-snake.svg" />
 
 </p>
